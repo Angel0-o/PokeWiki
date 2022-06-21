@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokeWiki</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_view">list</string>
+    <string name="grid_view">grid</string>
+    <string name="pokemon_name">Pokemon name</string>
+</resources>
